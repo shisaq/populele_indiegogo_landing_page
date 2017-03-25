@@ -14,3 +14,12 @@
  2. `Mailchimp X Backers`的7万人今日仅有1个purchase，考虑 + kickstarter = 19万人，预算改为$100，明日继续测试；
  3. 根据`mailchimp(1%-2%)+Indiegogo_image_20170322`建立新campaign，audience设置为(600个backer的lookalike + indiegogo + kickstarter) = 97万人，日预算$100，即时启动；
  4. 根据`Uke Teacher Video`建立`remarketing_lookalike(1%)_uke_teacher_20170323`，audience改为(remarketing lookalike 1% + indiegogo + kickstarter - 600个backer的lookalike) = 39万，日预算$100，即时启动。(_如果不减去600个backer的lookalike的话，人群为73万，这可说明remarketing和backer的lookalike有一定程度的重合_)
+
+## 2017.3.24 23:00
+
+ 1. `Mailchimp X Backers`效果不佳，3日内CPA仅为$40，且呈现下降趋势，停止；
+ 2. `remarketing_lookalike(1%)_uke_teacher_20170323`预算提升为$200/天；
+ 3. `indiegogo_remarketing_20170318`预算提升为$150/天；
+ 4. `mailchimpLookalike_with_indiegogoAudience_20170319`预算提升为$150/天；
+ 5. `remarketing_lookalike(1%)_image_20170324`上线，audience为55万，日预算$200；
+ 6. 除去`600_backer_lookalike(1%)+indiegogo_image_20170323`和`indiegogo_is_online_ads video-the-uke-teacher`之外的所有campaign删掉"learn more"，仅保留"shop now"
