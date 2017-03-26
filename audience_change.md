@@ -22,4 +22,8 @@
  3. `indiegogo_remarketing_20170318`预算提升为$150/天；
  4. `mailchimpLookalike_with_indiegogoAudience_20170319`预算提升为$150/天；
  5. `remarketing_lookalike(1%)_image_20170324`上线，audience为55万，日预算$200；
- 6. 除去`600_backer_lookalike(1%)+indiegogo_image_20170323`和`indiegogo_is_online_ads video-the-uke-teacher`之外的所有campaign删掉"learn more"，仅保留"shop now"
+ 6. 除去`600_backer_lookalike(1%)+indiegogo_image_20170323`和`indiegogo_is_online_ads video-the-uke-teacher`之外的所有campaign删掉"learn more"，仅保留"shop now"。
+
+## 2017.3.24 23:00
+
+ 1. 3个主要lookalike所形成的campaigns，做互斥exclude，确保audience没有重合。修改后，`600_backer_lookalike(1%)+indiegogo_image_20170323`的audience46万，`indiegogo_is_online_ads video-the-uke-teacher`31万，`mailchimpLookalike_with_indiegogoAudience_20170319`26万，`remarketing_lookalike(1%)_image_20170324`35万，`remarketing_lookalike(1%)_uke_teacher_20170323`24万。其他暂时保持不变。
