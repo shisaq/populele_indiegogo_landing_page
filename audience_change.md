@@ -24,6 +24,13 @@
  5. `remarketing_lookalike(1%)_image_20170324`上线，audience为55万，日预算$200；
  6. 除去`600_backer_lookalike(1%)+indiegogo_image_20170323`和`indiegogo_is_online_ads video-the-uke-teacher`之外的所有campaign删掉"learn more"，仅保留"shop now"。
 
-## 2017.3.24 23:00
+## 2017.3.25 23:00
 
  1. 3个主要lookalike所形成的campaigns，做互斥exclude，确保audience没有重合。修改后，`600_backer_lookalike(1%)+indiegogo_image_20170323`的audience46万，`indiegogo_is_online_ads video-the-uke-teacher`31万，`mailchimpLookalike_with_indiegogoAudience_20170319`26万，`remarketing_lookalike(1%)_image_20170324`35万，`remarketing_lookalike(1%)_uke_teacher_20170323`24万。其他暂时保持不变。
+
+## 2017.3.26 23:00
+
+ 1. `indiegogo_is_online_ads video-the-uke-teacher`改名为`600_backer_lookalike(1%)+indiegogo_video_20170314`，`remarketing_lookalike(1%)_uke_teacher_20170323`改名为`remarketing_lookalike(1%)_video_20170323`；
+ 2. 更新backers(从600到700)，制作新的backer的lookalike；
+ 3. 根据Page Likes的audience(1570人)，制作`Page_Like_1% US`的lookalike；
+ 4. `remarketing`增加`Video Engagement - "remarketing_lookalike(1%)_uke_teacher_20170323" - Video View 75 Percent`的audience，现在共3万人。
