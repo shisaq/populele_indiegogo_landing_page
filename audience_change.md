@@ -34,3 +34,13 @@
  2. 更新backers(从600到700)，制作新的backer的lookalike；
  3. 根据Page Likes的audience(1570人)，制作`Page_Like_1% US`的lookalike；
  4. `remarketing`增加`Video Engagement - "remarketing_lookalike(1%)_uke_teacher_20170323" - Video View 75 Percent`的audience，现在共3万人。
+
+## 2017.3.27 23:00
+
+ 1. 暂停`remarketing_lookalike(1%)_video_20170323`和`remarketing_lookalike(1%)_image_20170324`，*以后做Branding可重启*；
+ 2. 所有campaign(除去remarketing)暂停`大理石图`的ads；
+ 3. 更新600backer的lookalike到900backer；
+ 4. 将`mailchimpLookalike_with_indiegogoAudience_20170319`重命名为`mailchimpLookalike_image_20170319`，根据它建立`mailchimpLookalike_video_20170328`，audience为17万，预算$150/天；
+ 5. 新建`Page_Like_video_20170328`，audience为17万，预算$100/天；
+ 6. 停止`900_backer_lookalike(1%)+indiegogo_image_20170323`的`learn more`；
+ 7. 通过`Page_Like_lookalike`对每个campaign做互斥，cross对应audience。
