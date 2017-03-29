@@ -41,6 +41,13 @@
  2. 所有campaign(除去remarketing)暂停`大理石图`的ads；
  3. 更新600backer的lookalike到900backer；
  4. 将`mailchimpLookalike_with_indiegogoAudience_20170319`重命名为`mailchimpLookalike_image_20170319`，根据它建立`mailchimpLookalike_video_20170328`，audience为17万，预算$150/天；
- 5. 新建`Page_Like_video_20170328`，audience为17万，预算$100/天；
+ 5. 新建`Page_Like_video_20170328`，audience为17万，预算$150/天；
  6. 停止`900_backer_lookalike(1%)+indiegogo_image_20170323`的`learn more`；
  7. 通过`Page_Like_lookalike`对每个campaign做互斥，cross对应audience。
+
+## 2017.3.28 23:00
+
+ 1. 暂停`Page_Like_video_20170328`；
+ 2. 提升`900_backer_lookalike(1%)`的2个campaign的预算($200->$300)；
+ 3. `mailchimp_lookalike(1%)`的2个campaign的预算(video: $125, image: $75)；
+ 4. `remarketing`预算上调至$200。
