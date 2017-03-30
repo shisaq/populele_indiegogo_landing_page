@@ -51,3 +51,8 @@
  2. 提升`900_backer_lookalike(1%)`的2个campaign的预算($200->$300)；
  3. `mailchimp_lookalike(1%)`的2个campaign的预算(video: $125, image: $75)；
  4. `remarketing`预算上调至$200。
+
+## 2017.3.29 23:00
+
+ 1. 暂停`mailchimp_lookalike(1%)`的2个campaign；
+ 2. 新建`900backer_no_exclude`的2个campaign，不再exclude其他lookalike，audience为81万，预算($200, $200)。
