@@ -62,3 +62,10 @@
  1. 暂停`900_backer_lookalike(1%)`的2个campaign；
  2. `900backer_no_exclude`的2个campaign预算增加到$400/天；
  3. `remarketing`预算下调至$150。
+
+## 2017.3.31 23:00
+
+ 1. `right column`的placement综合表现异常不佳，暂停该placement，*今后其他campaign也不再考虑*；
+ 2. `desktop`表现也不佳，待继续观察后考虑停掉；
+ 3. 创建`fool's day`的campaign，在愚人节运行1天；
+ 4. `remarketing`增加最新的`video 75%` audience，增加Canada，去掉`right column`。
