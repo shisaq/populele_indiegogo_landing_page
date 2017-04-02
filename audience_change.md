@@ -80,3 +80,8 @@
  2. 制作 `1100_backer_lookalike(1%)`，替换 `900` 的audience；
  3. 分别创建 `1100_backer_lookalike(1%-2%)` 和 `1100_backer_lookalike(2%-3%)`，日预算均为$100，测试1天；
  4. 增加Canada。
+
+## 2017.4.2 12:00
+
+ 1. `1100_backer_lookalike(1%)_video`变回前一天的 `900_backer_lookalike(1%)_video` 及audience，预算改为$200；
+ 2. 增加 `1100backer(1%)_without_900backer_video_20170401` ，预算为$200。
