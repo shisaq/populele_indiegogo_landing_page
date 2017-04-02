@@ -69,3 +69,14 @@
  2. `desktop`表现也不佳，待继续观察后考虑停掉；
  3. 创建`fool's day`的campaign，在愚人节运行1天；
  4. `remarketing`增加最新的`video 75%` audience，增加Canada，去掉`right column`。
+
+## 2017.4.1 14:30
+
+ 1. `fool's day`的audience换成`remarketing lookalike` & except `900 backers`。
+
+## 2017.4.1 23:00
+
+ 1. 暂停 `900_backer_lookalike(1%)_image` ， `video` 的预算调整为$600；
+ 2. 制作 `1100_backer_lookalike(1%)`，替换 `900` 的audience；
+ 3. 分别创建 `1100_backer_lookalike(1%-2%)` 和 `1100_backer_lookalike(2%-3%)`，日预算均为$100，测试1天；
+ 4. 增加Canada。
