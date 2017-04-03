@@ -84,4 +84,14 @@
 ## 2017.4.2 12:00
 
  1. `1100_backer_lookalike(1%)_video`变回前一天的 `900_backer_lookalike(1%)_video` 及audience，预算改为$200；
- 2. 增加 `1100backer(1%)_without_900backer_video_20170401` ，预算为$200。
+ 2. 增加 `1100backer(1%)_without_900backer_video_20170401` ，预算为$200；
+ 3. 暂停 `1100_backer_lookalike(1%-2%)` 和 `1100_backer_lookalike(2%-3%)`；
+
+## 2017.4.2 23:00
+
+ 1. 重新启动 `1100_backer_lookalike(1%-2%)` 和 `1100_backer_lookalike(2%-3%)`，日预算均为$100，测试1天， `1100_backer_lookalike(2%-3%)`的bid自定义为$0.4；
+ 2. `1100backer(1%)_without_900backer_video_20170401`预算调整为$100。
+
+## 2017.4.3 9:00
+
+ 1. `1100_backer_lookalike(2%-3%)`的bid自定义为$0.7。
