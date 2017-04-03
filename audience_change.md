@@ -92,6 +92,6 @@
  1. 重新启动 `1100_backer_lookalike(1%-2%)` 和 `1100_backer_lookalike(2%-3%)`，日预算均为$100，测试1天， `1100_backer_lookalike(2%-3%)`的bid自定义为$0.4；
  2. `1100backer(1%)_without_900backer_video_20170401`预算调整为$100。
 
-## 2017.4.3 9:00
+## 2017.4.3 10:00
 
- 1. `1100_backer_lookalike(2%-3%)`的bid自定义为$7。
+ 1. `1100_backer_lookalike(2%-3%)`的bid改为Minimum。
