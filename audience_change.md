@@ -94,4 +94,5 @@
 
 ## 2017.4.3 10:00
 
- 1. `1100_backer_lookalike(2%-3%)`的bid改为Minimum。
+ 1. `1100_backer_lookalike(2%-3%)`的bid改为Minimum；
+ 2. `1100_backer_lookalike(1%-2%)` 和 `1100_backer_lookalike(2%-3%)`exclude掉900backer。
