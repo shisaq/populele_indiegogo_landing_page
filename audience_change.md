@@ -94,4 +94,4 @@
 
 ## 2017.4.3 9:00
 
- 1. `1100_backer_lookalike(2%-3%)`的bid自定义为$0.7。
+ 1. `1100_backer_lookalike(2%-3%)`的bid自定义为$7。
