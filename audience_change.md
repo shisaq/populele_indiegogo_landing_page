@@ -96,3 +96,10 @@
 
  1. `1100_backer_lookalike(2%-3%)`的bid改为Minimum；
  2. `1100_backer_lookalike(1%-2%)` 和 `1100_backer_lookalike(2%-3%)`exclude掉900backer。
+
+## 2017.4.3 23:00
+
+ 1. 重启 `900backer_no_exclude_image_20170329`，设定日预算为$200，查看是否可以恢复之前的数据；
+ 2. 新建 `11backer_video_remarketing` ，audience为640，日预算为$20；
+ 3. `1100_backer(1%)_without_900backer_lookalike(1%-2%)`增加 `homeowner`(audience从40万减到24万)，测试1天，与4月3日进行比较；
+ 4. `1100backer(1%)_without_900backer_video_20170401`增加 `homeowner`(audience从27万减到15万)，测试1天，与4月3日进行比较。
