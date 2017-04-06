@@ -110,4 +110,4 @@
 
 ## 2017.4.5 23:00
 
- 1. 暂停 `1100backer(1%-2%)_without_900backer_video_20170401`。
+ 1. 把 `1100backer(1%-2%)_without_900backer_video_20170401`的bid改为minimum。
