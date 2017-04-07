@@ -112,3 +112,8 @@
 
  1. 把 `1100backer(1%-2%)_without_900backer_video_20170401`的bid改为minimum；
  2. 建立 `1100backer(1%)_without_indiegogo_video_20170405`，排除Indiegogo和Kickstarter，日预算$100。
+
+## 2017.4.6 23:00
+
+ 1. 暂停 `1100backer(1%)_without_indiegogo_video_20170405`， `1100backer(1%-2%)_without_900backer_video_20170401`， `1100backer(2%-3%)_without_900backer_video_20170401`；
+ 2. 开通Business Manager。
