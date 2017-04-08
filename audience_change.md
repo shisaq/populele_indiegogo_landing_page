@@ -117,3 +117,8 @@
 
  1. 暂停 `1100backer(1%)_without_indiegogo_video_20170405`， `1100backer(1%-2%)_without_900backer_video_20170401`， `1100backer(2%-3%)_without_900backer_video_20170401`；
  2. 开通Business Manager。
+
+## 2017.4.7 23:00
+
+ 1. `remarketing20170318`更换1张图片；
+ 2. 开通Business Manager的 `Offline Event Sets` `ad accounts` `Instagram accounts`。
