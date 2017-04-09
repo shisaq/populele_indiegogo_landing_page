@@ -122,3 +122,7 @@
 
  1. `remarketing20170318`更换1张图片；
  2. 开通Business Manager的 `Offline Event Sets` `ad accounts` `Instagram accounts`。
+
+## 2017.4.8 9:00
+
+ 1. freelancer制作2个campaigns： `FSM v1 male` 和 `FSM v1 female`，日预算为$10左右。
