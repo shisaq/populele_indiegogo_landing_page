@@ -126,3 +126,8 @@
 ## 2017.4.8 9:00
 
  1. freelancer制作2个campaigns： `FSM v1 male` 和 `FSM v1 female`，日预算为$10左右。
+
+## 2017.4.9 23:00
+
+ 1. 停止freelancer制作的campaigns并解除合作；
+ 2. 暂停 `1100backer_video_remarketing_20170403`。
