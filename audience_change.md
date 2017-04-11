@@ -131,3 +131,8 @@
 
  1. 停止freelancer制作的campaigns并解除合作；
  2. 暂停 `1100backer_video_remarketing_20170403`。
+
+## 2017.4.10 23:00
+
+ 1. `900backer(1%)_no_exclude_video_20170329` 预算增长到$600；
+ 2. 建立 `900backer(1%)_no_exclude_video_20170411_expansion`，仅增加expansion，其他保持一致，audience从81万扩张到210万。预算$100。
