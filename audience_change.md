@@ -136,3 +136,8 @@
 
  1. `900backer(1%)_no_exclude_video_20170329` 预算增长到$600；
  2. 建立 `900backer(1%)_no_exclude_video_20170411_expansion`，仅增加expansion，其他保持一致，audience从81万扩张到210万。预算$100。
+
+## 2017.4.11 23:00
+
+ 1. `900backer(1%)_no_exclude_video_20170329` 预算改为$200/天；
+ 2. `900backer(1%)_no_exclude_video_20170411_expansion` 预算改为$150/天。
