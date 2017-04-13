@@ -141,3 +141,8 @@
 
  1. `900backer(1%)_no_exclude_video_20170329` 预算改为$200/天；
  2. `900backer(1%)_no_exclude_video_20170411_expansion` 预算改为$150/天。
+
+## 2017.4.12 23:00
+
+ 1. 制作 `1400 lookalike`；
+ 2. 重启 `1100backer_video_remarketing_20170403`。
