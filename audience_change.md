@@ -146,3 +146,7 @@
 
  1. 制作 `1400 lookalike`；
  2. 重启 `1100backer_video_remarketing_20170403`。
+
+## 2017.4.12 23:00
+
+ 1. 重新制作 `1400 lookalike`，包括CA，USA，1%-3%。
