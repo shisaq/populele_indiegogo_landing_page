@@ -147,6 +147,11 @@
  1. 制作 `1400 lookalike`；
  2. 重启 `1100backer_video_remarketing_20170403`。
 
-## 2017.4.12 23:00
+## 2017.4.13 23:00
 
  1. 重新制作 `1400 lookalike`，包括CA，USA，1%-3%。
+
+## 2017.4.15 23:00
+
+ 1. 启用A/B Testing，建立 `Populele_Indiegogo_20170415`；
+ 2. 停止 `1100backer_video_remarketing_20170403`。
