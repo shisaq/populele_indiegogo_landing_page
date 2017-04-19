@@ -155,3 +155,8 @@
 
  1. 启用A/B Testing，建立 `Populele_Indiegogo_20170415`；
  2. 停止 `1100backer_video_remarketing_20170403`。
+
+## 2017.4.18 11:00
+
+ 1. 停止 `900backer(1%)_no_exclude_video_20170411_expansion`；
+ 2. 降低 `remarketing20170318` 的预算($100 -> $50)，待更新图片后再提升预算。
