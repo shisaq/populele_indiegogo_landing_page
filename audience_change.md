@@ -160,3 +160,8 @@
 
  1. 停止 `900backer(1%)_no_exclude_video_20170411_expansion`；
  2. 降低 `remarketing20170318` 的预算($100 -> $50)，待更新图片后再提升预算。
+
+## 2017.4.21 23:00
+
+ 1. 新建 `WCA` 和 `1% LAL`，日预算分别为$20和$30，测试；
+ 2. Google AdWords新建3个campaign(keyword，brand，remarketing)，日预算共$45。
